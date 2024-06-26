@@ -1,0 +1,1 @@
+This is a simple website which takes date as a userinput and says whether it is a working day or weekend day.this is done using javascriptand Embedded Java Script.providing advice or information based on user-selected dates in a user-friendly interface.
